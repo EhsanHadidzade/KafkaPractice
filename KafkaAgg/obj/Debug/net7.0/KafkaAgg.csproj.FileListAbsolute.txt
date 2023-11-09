@@ -1,0 +1,12 @@
+D:\MySamples\KafkaPractice\KafkaAgg\bin\Debug\net7.0\KafkaAgg.deps.json
+D:\MySamples\KafkaPractice\KafkaAgg\bin\Debug\net7.0\KafkaAgg.dll
+D:\MySamples\KafkaPractice\KafkaAgg\bin\Debug\net7.0\KafkaAgg.pdb
+D:\MySamples\KafkaPractice\KafkaAgg\obj\Debug\net7.0\KafkaAgg.csproj.AssemblyReference.cache
+D:\MySamples\KafkaPractice\KafkaAgg\obj\Debug\net7.0\KafkaAgg.GeneratedMSBuildEditorConfig.editorconfig
+D:\MySamples\KafkaPractice\KafkaAgg\obj\Debug\net7.0\KafkaAgg.AssemblyInfoInputs.cache
+D:\MySamples\KafkaPractice\KafkaAgg\obj\Debug\net7.0\KafkaAgg.AssemblyInfo.cs
+D:\MySamples\KafkaPractice\KafkaAgg\obj\Debug\net7.0\KafkaAgg.csproj.CoreCompileInputs.cache
+D:\MySamples\KafkaPractice\KafkaAgg\obj\Debug\net7.0\KafkaAgg.dll
+D:\MySamples\KafkaPractice\KafkaAgg\obj\Debug\net7.0\refint\KafkaAgg.dll
+D:\MySamples\KafkaPractice\KafkaAgg\obj\Debug\net7.0\KafkaAgg.pdb
+D:\MySamples\KafkaPractice\KafkaAgg\obj\Debug\net7.0\ref\KafkaAgg.dll
